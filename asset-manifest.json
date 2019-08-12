@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8b49e42b.chunk.css",
+    "main.js": "/portfolio/static/js/main.9e6a1e04.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9e6a1e04.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.cbff171f.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.cbff171f.js.map",
+    "static/js/2.d854944d.chunk.js": "/portfolio/static/js/2.d854944d.chunk.js",
+    "static/js/2.d854944d.chunk.js.map": "/portfolio/static/js/2.d854944d.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.c1ae31d2736023d7be5426f1354a2f79.js": "/portfolio/precache-manifest.c1ae31d2736023d7be5426f1354a2f79.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.8b49e42b.chunk.css.map": "/portfolio/static/css/main.8b49e42b.chunk.css.map",
+    "static/media/ga-blog.png": "/portfolio/static/media/ga-blog.75e5d6c6.png",
+    "static/media/intactbuilders.png": "/portfolio/static/media/intactbuilders.447ce564.png",
+    "static/media/lychees.png": "/portfolio/static/media/lychees.99267601.png",
+    "static/media/main-lp.png": "/portfolio/static/media/main-lp.25510f1f.png",
+    "static/media/minimal-lp.png": "/portfolio/static/media/minimal-lp.31abd813.png",
+    "static/media/original-trombone.png": "/portfolio/static/media/original-trombone.a8379cec.png",
+    "static/media/react-wallet.png": "/portfolio/static/media/react-wallet.c9e8e229.png",
+    "static/media/react-weather.png": "/portfolio/static/media/react-weather.40527de9.png",
+    "static/media/rock-paper.png": "/portfolio/static/media/rock-paper.b416ef6b.png"
+  }
+}
