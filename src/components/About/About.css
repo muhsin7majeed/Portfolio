@@ -1,22 +1,32 @@
 .about {
   text-align: center;
   margin-top: 80px;
+  padding-bottom: 100px;
 }
 
 .about h1 {
-  font-family: 'Satisfy', cursive;
+  font-family: "Satisfy", cursive;
   font-size: 62px;
 }
 
 .about p {
+  text-align: left;
   width: 60%;
   margin: 0 auto;
+  line-height: 25px;
+  font-size: 20px;
+  opacity: 0.9;
 }
-.socialIcons{
+.about h3 {
+  text-align: left;
+  width: 60%;
+  margin: 15px auto 3px auto;
+}
+.socialIcons {
   margin: 20px;
   font-size: 22px;
 }
-.socialIcons a{
+.socialIcons a {
   margin: 5px;
   padding: 10px;
 }
