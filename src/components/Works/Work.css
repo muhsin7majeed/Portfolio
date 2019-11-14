@@ -6,13 +6,13 @@
 hr {
   width: 30%;
   margin: 30px auto;
-  opacity: .3;
+  opacity: 0.3;
 }
 
 .works h1 {
-  font-family: 'Satisfy', cursive;
+  font-family: "Satisfy", cursive;
   font-size: 62px;
-  opacity: .8;
+  opacity: 0.8;
 }
 
 .work-item {
@@ -29,7 +29,7 @@ hr {
 }
 
 .work-item code {
-  background-color: #393E46;
+  background-color: #393e46;
   padding: 0 10px;
 }
 
@@ -37,12 +37,16 @@ hr {
   width: 100%;
   margin-bottom: 5px;
   border-radius: 5px;
+  transition: 0.1s linear;
+}
+.work-item img:hover {
+  transform: scale(1.01);
 }
 
 .work-item a {
   padding: 10px;
   color: #fff;
-  opacity: .8;
+  opacity: 0.8;
 }
 
 .work-item a:hover {

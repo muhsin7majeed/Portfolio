@@ -12,12 +12,13 @@
 }
 
 .home h1 {
-  font-family: 'Satisfy', cursive;
+  font-family: "Satisfy", cursive;
   font-size: 62px;
+  text-shadow: 5px 5px 0 #ff1d74, -5px -5px 0 #3c8aff;
 }
 
 .home p {
-  opacity: .5;
+  opacity: 0.5;
 }
 
 .particles {
@@ -37,11 +38,15 @@
   border: 1px solid #fff;
   background-color: transparent;
   color: #fff;
+  transition: .1s linear;
   cursor: pointer;
-  opacity: .9;
+  opacity: 0.9;
 }
 
 .home button:hover {
+  transform: scale(1.1);
+  background-color: #ff1d74;
+  border: none;
   opacity: 1;
 }
 
@@ -49,4 +54,14 @@
   .home div {
     margin-top: -100px;
   }
+}
+
+/* Global Transitions */
+.example-appear {
+  opacity: 0.01;
+}
+
+.example-appear.example-appear-active {
+  opacity: 1;
+  transition: opacity 1s linear;
 }
