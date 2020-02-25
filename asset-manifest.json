@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c7dacf7.chunk.css",
+    "main.js": "/static/js/main.c344f9d9.chunk.js",
+    "main.js.map": "/static/js/main.c344f9d9.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.daaf4d4d.js",
+    "runtime~main.js.map": "/static/js/runtime~main.daaf4d4d.js.map",
+    "static/js/2.0bac8123.chunk.js": "/static/js/2.0bac8123.chunk.js",
+    "static/js/2.0bac8123.chunk.js.map": "/static/js/2.0bac8123.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4f2fa04a18f88f7321b355f2a835a09e.js": "/precache-manifest.4f2fa04a18f88f7321b355f2a835a09e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4c7dacf7.chunk.css.map": "/static/css/main.4c7dacf7.chunk.css.map",
+    "static/media/ga-blog.png": "/static/media/ga-blog.75e5d6c6.png",
+    "static/media/intactbuilders.png": "/static/media/intactbuilders.447ce564.png",
+    "static/media/lychees.png": "/static/media/lychees.99267601.png",
+    "static/media/main-lp.png": "/static/media/main-lp.25510f1f.png",
+    "static/media/minimal-lp.png": "/static/media/minimal-lp.31abd813.png",
+    "static/media/original-trombone.png": "/static/media/original-trombone.a8379cec.png",
+    "static/media/react-wallet.png": "/static/media/react-wallet.c9e8e229.png",
+    "static/media/react-weather.png": "/static/media/react-weather.40527de9.png",
+    "static/media/rock-paper.png": "/static/media/rock-paper.b416ef6b.png"
+  }
+}
